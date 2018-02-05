@@ -1,0 +1,25 @@
+{
+  "name": "domo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "html5shiv": "^3.7.3",
+    "jquery": "^1.12.4",
+    "respond.js": "^1.4.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-less": "^3.4.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^3.0.0"
+  }
+}
